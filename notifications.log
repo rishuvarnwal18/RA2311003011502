@@ -1,0 +1,26 @@
+2026-05-02 10:33:26,493 - INFO - Fetching notifications
+2026-05-02 10:33:26,544 - ERROR - Error fetching notifications: 401 Client Error: Unauthorized for url: http://20.207.122.201/evaluation-service/notifications
+2026-05-02 10:33:26,544 - INFO - Heap built with top 10 notifications
+2026-05-02 10:34:25,560 - INFO - Fetching notifications
+2026-05-02 10:34:25,614 - ERROR - Error fetching notifications: 401 Client Error: Unauthorized for url: http://20.207.122.201/evaluation-service/notifications
+2026-05-02 10:34:25,614 - INFO - Heap built with top 10 notifications
+2026-05-02 10:39:06,666 - INFO - Starting auth request
+2026-05-02 10:39:06,725 - ERROR - Error getting auth token: 400 Client Error: Bad Request for url: http://20.207.122.201/evaluation-service/auth
+2026-05-02 10:48:38,373 - INFO - Starting user registration
+2026-05-02 10:48:38,431 - ERROR - Registration failed: 401 Client Error: Unauthorized for url: http://20.207.122.201/evaluation-service/register
+2026-05-02 10:49:30,609 - INFO - Starting user registration
+2026-05-02 10:49:30,666 - ERROR - Registration failed: 401 Client Error: Unauthorized for url: http://20.207.122.201/evaluation-service/register
+2026-05-02 10:50:42,423 - INFO - Starting user registration
+2026-05-02 10:50:42,478 - ERROR - Registration failed: 401 Client Error: Unauthorized for url: http://20.207.122.201/evaluation-service/register
+2026-05-02 10:51:08,992 - INFO - Starting user registration
+2026-05-02 10:51:09,057 - ERROR - Registration failed: 401 Client Error: Unauthorized for url: http://20.207.122.201/evaluation-service/register
+2026-05-02 10:52:10,425 - INFO - Starting user registration
+2026-05-02 10:52:10,477 - ERROR - Registration failed: 401 Client Error: Unauthorized for url: http://20.207.122.201/evaluation-service/register
+2026-05-02 10:53:39,357 - INFO - Starting user registration
+2026-05-02 10:53:39,430 - ERROR - Registration failed: 401 Client Error: Unauthorized for url: http://20.207.122.201/evaluation-service/register
+2026-05-02 10:59:52,817 - INFO - getting auth token
+2026-05-02 10:59:52,886 - INFO - token received
+2026-05-02 10:59:52,886 - INFO - fetching notifications
+2026-05-02 10:59:52,944 - INFO - got 20 notifications
+2026-05-02 10:59:52,949 - INFO - heap built
+2026-05-02 10:59:52,950 - INFO - done
